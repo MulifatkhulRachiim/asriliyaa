@@ -48,7 +48,8 @@ Buat direktory project praktikum pertama dengan nama practice1.
              
 3.	Setelah itu, jalankan perintah git init, untuk membuat repository local.
 
-        ![Screenshot (10)](https://user-images.githubusercontent.com/72993076/96338172-7a7c7080-10b6-11eb-8417-695f453e54dc.png)
+       ![Screenshot (20)](https://user-images.githubusercontent.com/72993076/96338308-405f9e80-10b7-11eb-9066-60a881ef4134.png)
+
 
 
 4.	Buat satu file bernama README.md.
@@ -57,9 +58,11 @@ Buat direktory project praktikum pertama dengan nama practice1.
 
         File README.md berhasil dibuat.
 	
-        ![Screenshot (10)](https://user-images.githubusercontent.com/72993076/96337957-f37ac880-10b4-11eb-8191-cfce9e03649a.png)
+        
+	![Screenshot (21)](https://user-images.githubusercontent.com/72993076/96338416-2a9ea900-10b8-11eb-9c37-d4d970e0f5cc.png)
 
-             
+
+
 5.	Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 
         $ git add README.md
@@ -78,14 +81,14 @@ git commit -m “komentar commit”.
 	
 
 
-7.	Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
+7.	Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url].
 
         $ git remote add origin https://github.com/asriliya/asriliyaa.git
 	
-        ![Screenshot (16)](https://user-images.githubusercontent.com/72993076/96338061-bb27ba00-10b5-11eb-9c72-280beb2db90e.png)
-        
-
 	
+	![Screenshot (22)](https://user-images.githubusercontent.com/72993076/96338616-b49b4180-10b9-11eb-83fc-8b0c109d8dd8.png)
+
+
 
 8.	Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 
@@ -93,18 +96,21 @@ git commit -m “komentar commit”.
 
 	Perintah ini akan meminta memasukkan username dan password pada akun github.com
 	
-         ![Screenshot (17)](https://user-images.githubusercontent.com/72993076/96337969-186f3b80-10b5-11eb-8cf8-d3afc80a23b3.png)
+	
+	![Screenshot (17)](https://user-images.githubusercontent.com/72993076/96338579-6128f380-10b9-11eb-8a44-9f9005499065.png)
+
+
 	 
 	 
  #Melihat hasilnya pada server repository
  
 •	Buka laman github.com, arahkan pada repositorinya.
 
-•	Maka perubahan akan terlihat pada laman tersebut
+•	Maka perubahan akan terlihat pada laman tersebut.
 
-       ![Screenshot (18)](https://user-images.githubusercontent.com/72993076/96337981-36d53700-10b5-11eb-9fdc-b72641b80726.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/72993076/96338650-e6140d00-10b9-11eb-8e10-fa6ed4a61f99.png)
 
- 
+
 
 9.	Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 Untuk melakukan cloning, gunakan perintah git clone [url].
