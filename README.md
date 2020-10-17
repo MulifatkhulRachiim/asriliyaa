@@ -48,8 +48,7 @@ Buat direktory project praktikum pertama dengan nama practice1.
              
 3.	Setelah itu, jalankan perintah git init, untuk membuat repository local.
 
-        ![Screenshot (9)](https://user-images.githubusercontent.com/72993076/96337430-5c604180-10b1-11eb-948f-677d1c0c20aa.png)
-
+        ![Screenshot (10)](https://user-images.githubusercontent.com/72993076/96337938-c9c1a180-10b4-11eb-8955-28d22b948d6e.png)
 
              
 4.	Buat satu file bernama README.md.
@@ -58,7 +57,7 @@ Buat direktory project praktikum pertama dengan nama practice1.
 
         File README.md berhasil dibuat.
 	
-        ![Screenshot (10)](https://user-images.githubusercontent.com/72993076/96337545-34bda900-10b2-11eb-9591-a86ae01fed7f.png)
+        ![Screenshot (10)](https://user-images.githubusercontent.com/72993076/96337957-f37ac880-10b4-11eb-8191-cfce9e03649a.png)
 
              
 5.	Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
@@ -67,7 +66,7 @@ Buat direktory project praktikum pertama dengan nama practice1.
 
 	File README.md berhasil ditambahkan.
 	
-        ![Screenshot (11)](https://user-images.githubusercontent.com/72993076/96337558-561e9500-10b2-11eb-9078-85d1c87fb788.png)
+       ![Screenshot (11)](https://user-images.githubusercontent.com/72993076/96338013-79970f00-10b5-11eb-9c33-7d20838d0af6.png)
              
 6.	Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah 
 git commit -m “komentar commit”.
@@ -83,7 +82,8 @@ git commit -m “komentar commit”.
 
         $ git remote add origin https://github.com/asriliya/asriliyaa.git
 	
-        ![Screenshot (16)](https://user-images.githubusercontent.com/72993076/96337746-6a16c680-10b3-11eb-9289-e9984751b0c5.png)
+        ![Screenshot (16)](https://user-images.githubusercontent.com/72993076/96338061-bb27ba00-10b5-11eb-9c72-280beb2db90e.png)
+        
 
 	
 
@@ -93,17 +93,16 @@ git commit -m “komentar commit”.
 
 	Perintah ini akan meminta memasukkan username dan password pada akun github.com
 	
-         ![Screenshot (17)](https://user-images.githubusercontent.com/72993076/96337679-fffe2180-10b2-11eb-9f3b-b3ca5c34511c.png)
-
-
-
+         ![Screenshot (17)](https://user-images.githubusercontent.com/72993076/96337969-186f3b80-10b5-11eb-8cf8-d3afc80a23b3.png)
+	 
+	 
  #Melihat hasilnya pada server repository
  
 •	Buka laman github.com, arahkan pada repositorinya.
 
 •	Maka perubahan akan terlihat pada laman tersebut
 
-       ![Screenshot (18)](https://user-images.githubusercontent.com/72993076/96337764-93cfed80-10b3-11eb-8cf7-100bde71811f.png)
+       ![Screenshot (18)](https://user-images.githubusercontent.com/72993076/96337981-36d53700-10b5-11eb-9fdc-b72641b80726.png)
 
  
 
