@@ -48,9 +48,9 @@ Buat direktory project praktikum pertama dengan nama practice1.
              
 3.	Setelah itu, jalankan perintah git init, untuk membuat repository local.
 
-        ![Screenshot (10)](https://user-images.githubusercontent.com/72993076/96337938-c9c1a180-10b4-11eb-8955-28d22b948d6e.png)
+        ![Screenshot (10)](https://user-images.githubusercontent.com/72993076/96338172-7a7c7080-10b6-11eb-8417-695f453e54dc.png)
 
-             
+
 4.	Buat satu file bernama README.md.
 
         $ echo “# Practice 1” >> README.md
