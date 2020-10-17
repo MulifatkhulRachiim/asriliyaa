@@ -12,7 +12,8 @@ Dosen   : Agung Nugroho, S.Kom, M.Kom
 
 *Jika Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah.
   $ git --version
- 
+ ![Screenshot (15)](https://user-images.githubusercontent.com/72993076/96336627-5ebf9d00-10ab-11eb-92d8-97ddf7e1dabe.png)
+
 	
         	
 
