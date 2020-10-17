@@ -37,26 +37,30 @@ Dosen   : Agung Nugroho, S.Kom, M.Kom
 
 1.	Buat folder terlebih dahulu di Windows Explorer.
 2.	Untuk penggunaan git pertama masuk ke folder yang akan digunakan. Klik kanan dan pilih Git Bash.
-Buat direktory project praktikum pertama dengan nama practice1.
+Buat direktory project praktikum pertama dengan nama practice1. 
 
-$ mkdir latihan1 
+        $ mkdir latihan1 
 
-$ cd latihan1
+        $ cd latihan1
              
 3.	Setelah itu, jalankan perintah git init, untuk membuat repository local.
              
-4.	Buat satu file bernama README.md. 
-   
- 
-File README.md berhasil dibuat.
+4.	Buat satu file bernama README.md.
+
+        $ echo “# Practice 1” >> README.md
+
+        File README.md berhasil dibuat.
              
 5.	Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 
-	
-            File README.md berhasil ditambahkan.
+        $ git add README.md
+
+	File README.md berhasil ditambahkan.
              
 6.	Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah 
 git commit -m “komentar commit”.
+
+        $ git commit -m “File pertama saya”
 	
 	
 
@@ -64,18 +68,21 @@ git commit -m “komentar commit”.
 
 7.	Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 
+        $ git remote add origin https://github.com/asriliya/asriliyaa.git
+
 	
 
 
 8.	Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 
-	
-            Perintah ini akan meminta memasukkan username dan password pada akun github.com
+        $ git push -u origin master
+
+	Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
  
 
 
-Melihat hasilnya pada server repository
+#Melihat hasilnya pada server repository
 •	Buka laman github.com, arahkan pada repositorinya.
 •	Maka perubahan akan terlihat pada laman tersebut
  
