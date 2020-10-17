@@ -10,8 +10,10 @@ Kelas   : TI.20.B.1
 Dosen   : Agung Nugroho, S.Kom, M.Kom
 
 
-*Jika Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah.
+##Jika Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah.
+
   $ git --version
+  
  ![Screenshot (15)](https://user-images.githubusercontent.com/72993076/96336627-5ebf9d00-10ab-11eb-92d8-97ddf7e1dabe.png)
 
 	
@@ -19,7 +21,7 @@ Dosen   : Agung Nugroho, S.Kom, M.Kom
 
 
 
-PERINTAH DASAR GIT
+#PERINTAH DASAR GIT
 
 1.	git init, perintah untuk membuat repository local.
 2.	git add, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
@@ -31,12 +33,14 @@ PERINTAH DASAR GIT
 	
 
 
-TUTORIAL PENGGUNAAN GIT
+#TUTORIAL PENGGUNAAN GIT
 
 1.	Buat folder terlebih dahulu di Windows Explorer.
 2.	Untuk penggunaan git pertama masuk ke folder yang akan digunakan. Klik kanan dan pilih Git Bash.
 Buat direktory project praktikum pertama dengan nama practice1.
+
 $ mkdir latihan1 
+
 $ cd latihan1
              
 3.	Setelah itu, jalankan perintah git init, untuk membuat repository local.
